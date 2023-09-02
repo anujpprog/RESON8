@@ -1,2 +1,4 @@
 # RESON8
-My Official Website
+This repository is for my official web page!
+
+~thankyou
